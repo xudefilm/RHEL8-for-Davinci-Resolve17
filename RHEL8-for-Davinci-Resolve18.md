@@ -1,6 +1,6 @@
-# RHEL8-for-Davinci-Resolve17
-RHEL8 for Davinci Resolve 17
-# How to install DaVinci Resolve on CentOS 8.3
+# RHEL8-for-Davinci-Resolve18
+RHEL8 for Davinci Resolve 18
+# How to install DaVinci Resolve on RHEL8/CentOS 8.3
 
 1. Create a bootable USB drive
 	1. On Windows:
